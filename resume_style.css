@@ -1,3 +1,8 @@
+.heading {
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Helvetica', sans-serif;
+}
 p {
 	font-family: 'Helvetica', sans-serif;
 	margin-top: 10px;
