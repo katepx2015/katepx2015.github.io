@@ -3,3 +3,14 @@
 	font-weight: bold;
 	font-family: 'Helvetica', sans-serif;
 }
+ 
+IMG.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.links {
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+}
